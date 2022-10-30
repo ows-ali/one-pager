@@ -69,7 +69,10 @@ body{
 #tv .fa{
     font-weight: bold;
 }
-
+#section2 i {
+	display: flex;
+	justify-content: center;
+}
 /* footer */
 footer{
     height: 10vh;
